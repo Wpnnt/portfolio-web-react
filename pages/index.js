@@ -84,20 +84,22 @@ export default function Home() {
               <p className="text-black dark:text-white">feito com as tecnologias <span className="text-teal-500">HTML</span> e <span className="text-teal-500">CSS</span>.</p>
             </div>
             <div className="basis-1/5 flex-1">
+            <a href="https://wpnnt.github.io/Tinder-Prototype/" target="_blank" rel="noreferrer">
               <Image
-                className="rounded-lg object-cover"
+                className="object-cover transition-transform duration-500 transform hover:scale-105"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web2}
                 alt="Tinder Prototype project"
               />
-              <a href="https://wpnnt.github.io/Tinder-Prototype/" target="_blank" rel="noreferrer">
-                <h3 className="text-3xl py-1 dark:text-white object-cover transition-transform duration-500 transform hover:scale-105 ">Prototipo do Tinder</h3>
               </a>
+                <h3 className="text-3xl py-1 dark:text-white">Prototipo do Tinder</h3>
+              
               <p className="text-black dark:text-white">feito com as tecnologias <span className="text-teal-500">HTML</span>,<span className="text-teal-500">CSS</span> e <span className="text-teal-500">Bootstrap5</span>.</p>
             </div>
             <div className="basis-1/5 flex-1">
+            <a href="https://wpnnt.github.io/Simon-Game-Challenge/" target="_blank" rel="noreferrer">
               <Image
                 className="object-cover transition-transform duration-500 transform hover:scale-105"
                 width={"100%"}
@@ -106,11 +108,11 @@ export default function Home() {
                 src={web3}
                 alt="Simon Game project"
               />
-              <a href="https://wpnnt.github.io/Simon-Game-Challenge/" target="_blank" rel="noreferrer">
-                <h3 className="text-3xl py-1 dark:text-white transition-transform duration-300 transform hover:scale-105 hover:text-blue-500">
+              </a>
+                <h3 className="text-3xl py-1 dark:text-white">
                   Simon Game
                 </h3>
-              </a>
+              
               <h1 className="text-black dark:text-white">feito com as tecnologias <span className="text-teal-500">JavaScript</span>,<span className="text-teal-500">jQuery</span>,<span className="text-teal-500">CSS5</span> e <span className="text-teal-500">HTML</span>.</h1>
             </div>
             <div className="basis-1/5 flex-1">
@@ -123,10 +125,27 @@ export default function Home() {
                   src={web4}
                   alt="Drum Kit project"
                 />
-                <h3 className="text-3xl py-1 dark:text-white transition-transform duration-300 transform hover:scale-105 hover:text-blue-500">Drum Kit</h3>
-              </a>
+                </a>
+                <h3 className="text-3xl py-1 dark:text-white">Drum Kit</h3>
+              
               <p className="text-black dark:text-white"> feito com as tecnologias <span className="text-teal-500">HTML</span>,<span className="text-teal-500">CSS</span> e <span className="text-teal-500">JavaScript</span>.</p>
             </div>
+            <div className="basis-1/5 flex-1">
+              <a href="https://movie-trailer-umber.vercel.app/" target="_blank" rel="noreferrer">
+                <Image
+                  className="object-cover transition-transform duration-500 transform hover:scale-105"
+                  width={"100%"}
+                  height={"100%"}
+                  layout="responsive"
+                  src={web4}
+                  alt="Movie Trailer project"
+                />
+                </a>
+                <h3 className="text-3xl py-1 dark:text-white">TrailerFlix</h3>
+              
+              <p className="text-black dark:text-white"> feito com as tecnologias <span className="text-teal-500">HTML</span>,<span className="text-teal-500">CSS</span> e <span className="text-teal-500">JavaScript</span>.</p>
+            </div>
+            <div className="basis-1/5 flex-1"></div>
           </div>
         </section>
       </main>
