@@ -21,7 +21,7 @@ Este portfólio foi projetado para:
 2. Fornecer uma **interface interativa e visualmente atrativa** para exibir meus projetos.  
 3. Servir como um hub central onde recrutadores, colaboradores e colegas podem saber mais sobre mim.
 
-##  💻Tecnologia
+##  💻Tecnologias
 
 - React
 - javascript
