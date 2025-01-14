@@ -23,7 +23,16 @@ export default function Home() {
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
-            <h1 className="font-burtons font text-xl">developed by <a href='https://github.com/Wpnnt' target="_blank" rel="noreferrer">wpnnt</a> </h1>
+            <h1 className="font-burtons font text-xl">
+              developed by{" "}
+              <a
+                href="https://github.com/Wpnnt"
+                target="_blank"
+                rel="noreferrer"
+              >
+                wpnnt
+              </a>{" "}
+            </h1>
             <ul className="flex items-center">
               <li>
                 <BsFillMoonStarsFill
@@ -157,7 +166,7 @@ export default function Home() {
                 feito com as tecnologias{" "}
                 <span className="text-teal-500">JavaScript</span>,
                 <span className="text-teal-500">jQuery</span>,
-                <span className="text-teal-500">CSS5</span> e{" "}
+                <span className="text-teal-500">CSS5</span> e {" "}
                 <span className="text-teal-500">HTML</span>.
               </h1>
             </div>
@@ -207,10 +216,10 @@ export default function Home() {
                 {" "}
                 feito com as tecnologias{" "}
                 <span className="text-teal-500">React</span>,
-                <span className="text-teal-500">Tailwind</span> e{""}
-                <span className="text-teal-500">API:TMDB</span>.
+                <span className="text-teal-500">Tailwind</span> e {""}
+                <span className="text-teal-500">TMDB API</span>.
               </p>
-            </div>                        
+            </div>
           </div>
         </section>
       </main>
