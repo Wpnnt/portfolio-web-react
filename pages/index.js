@@ -206,9 +206,9 @@ export default function Home() {
               <p className="text-black dark:text-white">
                 {" "}
                 feito com as tecnologias{" "}
-                <span className="text-teal-500">HTML</span>,
-                <span className="text-teal-500">CSS</span> e{" "}
-                <span className="text-teal-500">JavaScript</span>.
+                <span className="text-teal-500">React</span>,
+                <span className="text-teal-500">Tailwind</span> e{""}
+                <span className="text-teal-500">API:TMDB</span>.
               </p>
             </div>                        
           </div>
