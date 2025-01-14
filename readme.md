@@ -1,6 +1,12 @@
 ---
+# 🌐 Portfolio Web React 
 
-# 🌐 Portfolio Web React  
+![GitHub License](https://img.shields.io/github/license/Wpnnt/portfolio-web-react)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fportfolio-web-react-v1.vercel.app%2F)
+![GitHub watchers](https://img.shields.io/github/watchers/Wpnnt/portfolio-web-react)
+![GitHub Repo stars](https://img.shields.io/github/stars/Wpnnt/portfolio-web-react)
+
+
 
 Bem-vindo ao repositório do meu **Portfólio Pessoal**! 🚀 Desenvolvido com **React.js**, este projeto funciona como um espaço para apresentar minhas habilidades, projetos e conquistas. Seja você um recrutador, colaborador ou apenas alguém buscando inspiração para criar seu próprio portfólio, você está no lugar certo!
 
@@ -13,10 +19,15 @@ Bem-vindo ao repositório do meu **Portfólio Pessoal**! 🚀 Desenvolvido com *
 Este portfólio foi projetado para:  
 1. **Destacar minhas habilidades e experiência** em desenvolvimento **web** e outras áreas relevantes.  
 2. Fornecer uma **interface interativa e visualmente atrativa** para exibir meus projetos.  
-3. Servir como um hub central onde recrutadores, colaboradores e colegas podem saber mais sobre mim.  
-##  💻Tecnologias
+3. Servir como um hub central onde recrutadores, colaboradores e colegas podem saber mais sobre mim.
 
-** React, TailwindCSS ** 
+##  💻Tecnologia
+
+- React
+- javascript
+- CSS
+- TailwindCSS
+- TMDB API 
 
 Utilizando **React.js**, criei uma interface rápida, responsiva e amigável ao usuário, com princípios de design modernos. O projeto conta com componentes reutilizáveis, estilização modular e conteúdo dinâmico, garantindo que ele seja sempre atualizado e escalável. 
 
@@ -34,10 +45,8 @@ Utilizando **React.js**, criei uma interface rápida, responsiva e amigável ao 
   </tr>
 </table>
 
-## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 
 ---
