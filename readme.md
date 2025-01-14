@@ -18,8 +18,6 @@ Este portfólio foi projetado para:
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
-
 Utilizando **React.js**, criei uma interface rápida, responsiva e amigável ao usuário, com princípios de design modernos. O projeto conta com componentes reutilizáveis, estilização modular e conteúdo dinâmico, garantindo que ele seja sempre atualizado e escalável. 
 
  <h2>👨‍💻Author</h2>
