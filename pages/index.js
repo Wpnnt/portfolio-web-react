@@ -58,7 +58,7 @@ export default function Home() {
               Junior Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Dev Júnior com foco em Full-Stack e iniciando como freelancer. Meu
+              Web Dev com foco em Full-Stack e iniciando como freelancer. Meu
               objetivo é me tornar um programador pleno em breve, sempre em
               busca de aprendizado e evolução. Acompanhe minhas redes sociais
               abaixo para saber mais sobre meus projetos e progressos.
